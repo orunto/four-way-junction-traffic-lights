@@ -1,7 +1,5 @@
 # Prototype of a Traffic Light Arrangement at a Four Way Junction
-
-## Background
-This project was designed as part of the requirements for completing the final year PLC programming course under the Mechatronics Elective of the Department of Mechanical Engineering at the Federal Univeristy of Technology Akure. Headed by Prof. Dahunsi
+This project was designed as part of the requirements for completing the final year PLC programming course under the Mechatronics Elective of the Department of [Mechanical Engineering](https://mee.futa.edu.ng) at the [Federal Univeristy of Technology Akure](https://futa.edu.ng). Headed by [Prof. O.A. Dahunsi](https://mee.futa.edu.ng/home/profile/595)
 
 ## Materials, Tools and Technologies
 ### Electronic Hardware
